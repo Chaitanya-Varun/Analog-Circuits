@@ -1,0 +1,47 @@
+Circuit: * C:\Users\CHAITANYA VARUN\Desktop\my_files\Semester_5\AnalogCircuits\MiniProjects\MiniProject_3\design_2.1.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+vernier = 0.0625
+Gmin = 1.1391
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+Gmin = 1.1215
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+Source Step = 33.3333%
+Source Step = 63.6364%
+Source Step = 93.9394%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Sat Dec 11 16:06:54 2021
+Total elapsed time: 0.312 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4646
+traniter = 2452
+tranpoints = 1206
+accept = 1180
+rejected = 26
+matrix size = 43
+fillins = 1
+solver = Normal
+Matrix Compiler1: 5.91 KB object code size  1.0/0.6/[0.3]
+Matrix Compiler2: 5.30 KB object code size  0.7/0.7/[0.4]
+
